@@ -1,0 +1,37 @@
+{
+  "title": "Login Form Testing Checklist",
+  "items": [
+    {
+      "task": "Verify presence of username field",
+      "completed": false
+    },
+    {
+      "task": "Verify presence of password field",
+      "completed": false
+    },
+    {
+      "task": "Test valid username and password combination",
+      "completed": false
+    },
+    {
+      "task": "Test invalid username and password combination",
+      "completed": false
+    },
+    {
+      "task": "Check for proper error messages on invalid login attempts",
+      "completed": false
+    },
+    {
+      "task": "Validate password strength requirements",
+      "completed": false
+    },
+    {
+      "task": "Test remember me functionality",
+      "completed": false
+    },
+    {
+      "task": "Verify password reset functionality",
+      "completed": false
+    }
+  ]
+}
